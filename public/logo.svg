@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60">
+  <defs>
+    <linearGradient id="brand" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="50%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+    <rect x="4" y="8" width="44" height="44" rx="10" fill="url(#brand)"/>
+    <path d="M14 40c7-12 12-16 16-16s9 4 16 16" stroke="#fff" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <circle cx="30" cy="20" r="6" fill="#fff"/>
+    <text x="64" y="40" font-family="Inter, system-ui, sans-serif" font-size="26" font-weight="700" fill="#0f172a">Smart</text>
+    <text x="130" y="40" font-family="Inter, system-ui, sans-serif" font-size="26" font-weight="700" fill="url(#brand)">EduRural</text>
+  </g>
+  
+</svg>
+
+
